@@ -1,4 +1,4 @@
-.open dreamhome.sqlite
+.open ../dreamhome.sqlite
 .mode column
 
 -- 6.1
